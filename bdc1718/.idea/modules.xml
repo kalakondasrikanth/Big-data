@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bdc1718.iml" filepath="$PROJECT_DIR$/bdc1718.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bdc1718_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bdc1718_main.iml" group="bdc1718" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bdc1718_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bdc1718_test.iml" group="bdc1718" />
+    </modules>
+  </component>
+</project>
